@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Python",
+    "definition": "A programming language",
+    "register": "IT"
+  },
+  {
+    "name": "YAML",
+    "definition": "A human-readable config format",
+    "register": "IT"
+  },
+  {
+    "name": "Pydantic",
+    "definition": "A data validation library",
+    "register": "IT"
+  }
+]
